@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637750850083942193
-    m_Hash: 2821296347
+      ticks: 637751711536024380
+    m_Hash: 1146413447
   m_LockFileStatus:
     m_FilePath: F:/repos/Unity/Unity 3D/Obstacle Course/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637750850119006751
-    m_Hash: 3016868605
+      ticks: 637751711536074241
+    m_Hash: 3922082425
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,12 +22,139 @@ m_LocalPackages:
 m_ProjectPath: F:/repos/Unity/Unity 3D/Obstacle Course/Packages
 m_EditorVersion: 2022.1.0b1 (ea0f0219deed)
 m_ResolvedPackages:
-- packageId: com.unity.collab-proxy@1.15.4
+- packageId: com.unity.cinemachine@2.8.3
   testable: 0
   isDirectDependency: 1
-  version: 1.15.4
+  version: 2.8.3
   source: 1
-  resolvedPath: F:\repos\Unity\Unity 3D\Obstacle Course\Library\PackageCache\com.unity.collab-proxy@1.15.4
+  resolvedPath: F:\repos\Unity\Unity 3D\Obstacle Course\Library\PackageCache\com.unity.cinemachine@2.8.3
+  assetPath: Packages/com.unity.cinemachine
+  name: com.unity.cinemachine
+  displayName: Cinemachine
+  author:
+    name: 
+    email: 
+    url: 
+  category: cinematography
+  type: 
+  description: "Smart camera tools for passionate creators. \n\nNew starting from
+    2.7.1: Are you looking for the Cinemachine menu? It has moved to the GameObject
+    menu.\n\nIMPORTANT NOTE: If you are upgrading from the legacy Asset Store version
+    of Cinemachine, delete the Cinemachine asset from your project BEFORE installing
+    this version from the Package Manager."
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 2.1.11-beta.1
+    - 2.1.12
+    - 2.1.13
+    - 2.2.0
+    - 2.2.7
+    - 2.2.8
+    - 2.2.9
+    - 2.2.10-preview.3
+    - 2.2.10-preview.4
+    - 2.3.1
+    - 2.3.3
+    - 2.3.4
+    - 2.3.5-preview.3
+    - 2.4.0-preview.3
+    - 2.4.0-preview.4
+    - 2.4.0-preview.6
+    - 2.4.0-preview.7
+    - 2.4.0-preview.8
+    - 2.4.0-preview.9
+    - 2.4.0-preview.10
+    - 2.4.0
+    - 2.5.0
+    - 2.6.0-preview.2
+    - 2.6.0-preview.3
+    - 2.6.0-preview.5
+    - 2.6.0-preview.8
+    - 2.6.0
+    - 2.6.1-preview.6
+    - 2.6.1
+    - 2.6.2-preview.1
+    - 2.6.2
+    - 2.6.3-preview.2
+    - 2.6.3
+    - 2.6.4
+    - 2.6.5
+    - 2.6.9
+    - 2.6.10
+    - 2.6.11
+    - 2.7.1
+    - 2.7.2
+    - 2.7.3
+    - 2.7.4
+    - 2.7.5
+    - 2.7.8
+    - 2.7.9
+    - 2.8.0-exp.1
+    - 2.8.0-exp.2
+    - 2.8.0-pre.1
+    - 2.8.0
+    - 2.8.1
+    - 2.8.2
+    - 2.8.3
+    - 2.9.0-pre.1
+    compatible:
+    - 2.8.2
+    - 2.8.3
+    - 2.9.0-pre.1
+    verified: 2.8.3
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - camera
+  - follow
+  - rig
+  - fps
+  - cinematography
+  - aim
+  - orbit
+  - cutscene
+  - cinematic
+  - collision
+  - freelook
+  - cinemachine
+  - compose
+  - composition
+  - dolly
+  - track
+  - clearshot
+  - noise
+  - framing
+  - handheld
+  - lens
+  - impulse
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637738074220000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.cinemachine.git
+    revision: dc21b29a59831e9c37412784e2069958c3248617
+    path: 
+  unityLifecycle:
+    version: 2.8.2
+    nextVersion: 2.9.0-pre.1
+- packageId: com.unity.collab-proxy@1.15.7
+  testable: 0
+  isDirectDependency: 1
+  version: 1.15.7
+  source: 1
+  resolvedPath: F:\repos\Unity\Unity 3D\Obstacle Course\Library\PackageCache\com.unity.collab-proxy@1.15.7
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -137,13 +264,13 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637726568460000000
+  datePublishedTicks: 637744672890000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: 1275603954ad33bee601fe2c9a3c787b3d4e4c6b
+    revision: d208594e5483cdf10d303b6ee17df4d6bf58d3de
     path: 
   unityLifecycle:
     version: 1.15.4
@@ -898,12 +1025,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-- packageId: com.unity.visualscripting@1.7.5
+- packageId: com.unity.visualscripting@1.7.6
   testable: 0
   isDirectDependency: 1
-  version: 1.7.5
+  version: 1.7.6
   source: 1
-  resolvedPath: F:\repos\Unity\Unity 3D\Obstacle Course\Library\PackageCache\com.unity.visualscripting@1.7.5
+  resolvedPath: F:\repos\Unity\Unity 3D\Obstacle Course\Library\PackageCache\com.unity.visualscripting@1.7.6
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -972,13 +1099,13 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637702395950000000
+  datePublishedTicks: 637722460580000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.visualscripting.git
-    revision: 92f3faf93c43d4d12ab8258dedff1ec23db47872
+    revision: 64599611822e37717efdd2fa1a0576e1984155fc
     path: 
   unityLifecycle:
     version: 1.7.5
